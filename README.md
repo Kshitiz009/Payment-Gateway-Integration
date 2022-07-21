@@ -8,7 +8,7 @@ There will be a simple donate button on the homepage. On clicking the donate but
 
 Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. The invoice will contain the amount. 🎱🎱
 
-The website hosted at 000webhost 👍👍👍
+The website hosted at 000webhost 👉
 https://kshitijborhadepgi.000webhostapp.com/
 
 Tech Stacks :-
@@ -17,10 +17,10 @@ Front End :-
     Html
     CSS
     JS
-Gateway Used 👍 :-
+Gateway Used :-
 RazorPay
 
-This Project was given by THE SPARKS FOUNDATION
+This Project was given by THE SPARKS FOUNDATION 👉
 
 https://www.thesparksfoundationsingapore.org/
 Under the Graduate Rotational Internship Program (GRIP)
